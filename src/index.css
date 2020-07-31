@@ -59,3 +59,10 @@ body {
 .orange {
   background-color: orange;
 }
+
+@media (max-width: 1200px) { 
+  .square {
+    width: 35px;
+    height: 35px;
+  }
+}
